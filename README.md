@@ -1,4 +1,4 @@
-**Blue Kite Studios** is a solo indie game development studio founded in 2026 by a beginnder developer exploring game creation with s&box and C#.
+**Blue Kite Studios** is a solo indie game development studio founded in 2026 by a beginner developer exploring game creation with s&box and C#.
 
 The studio focuses on learning through hands-on development, building small projects, experimenting with gameplay ideas, and improving skills over time. While still new to programming and game development, Blue Kite Studios is driven by creativity, curiosity, and a passion for making interactive experiences.
 
